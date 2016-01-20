@@ -4,7 +4,7 @@ This repo is for checking how protocol consolidation works,
 esp. when using Reprise reloader in dev mode.
 
 Since Elixir 1.2, protocols are also consolidated in dev environment
-- the one most often used by Reprise. Reprise 0.5.0 has a change allowing
+-- the one most often used by Reprise. Reprise 0.5.0 has a change allowing
 beams from consolidated dirs to be reloaded as well.
 
 This repo can be used for the following manual test:
