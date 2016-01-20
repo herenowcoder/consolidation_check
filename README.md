@@ -18,5 +18,6 @@ This repo can be used for the following manual test:
     ```
     18:48:34.596 [info]  Reloaded modules: [Proto.Integer]
     ```
+* run code again to see how it changed.
 
 That's it.
